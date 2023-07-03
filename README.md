@@ -9,5 +9,10 @@ Dataset here: https://data.giss.nasa.gov/gistemp/
 
 https://github.com/ghobbs03/temperature-anomalies-visualizer/assets/35367152/ff3fedb7-23f6-4dc2-9202-506223094e32
 
+https://github.com/ghobbs03/temperature-anomalies-visualizer/assets/35367152/77ef8ab2-a96b-4789-a635-a544d25d738a
+
 </center>
+
+
+
 
